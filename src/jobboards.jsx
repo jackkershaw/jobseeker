@@ -131,6 +131,11 @@ const jobsites = [
     name: "Antal Tech Jobs",
     website: "https://antaltechjobs.com/",
   },
+  {
+    name: "Climatebase",
+    website:
+      "https://climatebase.org/jobs?categories=Software+%26+IT&sub_categories=Front-end+Engineering",
+  },
 ];
 
 function Jobboards() {
